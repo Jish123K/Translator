@@ -1,0 +1,39 @@
+{
+
+  "name": "Machine Translation",
+
+  "description": "A machine translation project that allows users to translate texts from one language to another.",
+
+  "author": Jish123K,
+
+  "version": "1.0.0",
+
+  "dependencies": [
+
+    "spacy",
+
+    "bottle"
+
+  ],
+
+  "files": [
+
+    "translate_text.py",
+
+    "main.py"
+
+  ],
+
+  "commands": [
+
+    {
+
+      "command": "python3 main.py",
+
+      "description": "Runs the machine translation project."
+
+    }
+
+  ]
+
+}
